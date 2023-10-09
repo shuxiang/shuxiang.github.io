@@ -27,7 +27,7 @@
   ],
   "description": "广韵是方便大家查询广韵、切韵、平水韵、词林正韵、中原音韵等韵部的信息，还能推导方言读音、查字、查字义，辅助吟诗、作词、写对联的工具",
   "display": "standalone",
-  "start_url": "/static/index.html",
-  "scope": "/static/index.html",
+  "start_url": "/poem/index.html",
+  "scope": "/poem/index.html",
   "theme_color": "aliceblue"
 }
