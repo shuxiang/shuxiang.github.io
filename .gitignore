@@ -25,5 +25,7 @@ build/
 log/
 migrations/versions/*
 tests/
+keys/
+prosody/keys/
 
 to_pwa.py
